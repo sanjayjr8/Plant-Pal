@@ -1,0 +1,53 @@
+/* General styling for the webpage */
+body {
+    background-color: #e8f5e9; /* Light green background */
+    color: #1b5e20; /* Dark green text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #2e7d32; /* Medium green */
+    font-size: 2.5em;
+    margin: 20px 0;
+}
+
+/* Upload button styling */
+.upload-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4caf50; /* Button green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.upload-button:hover {
+    background-color: #388e3c; /* Darker green on hover */
+}
+
+/* Textbox and image output styling */
+textarea, img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #4caf50;
+    border-radius: 5px;
+    max-width: 90%;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1b5e20;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
