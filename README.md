@@ -1,7 +1,7 @@
 # 🌱 **Plant-Pal: Revolutionizing Plant Care for Farmers** 🌾
 
 <p align="center">
-  <img src="logo.png" />
+  <img src="c1.png" />
 </p>
 
 ---
@@ -88,12 +88,12 @@ Follow these steps to get Plant-Pal running on your system:
 
 ---
 
-## 📸 **Screenshots**
+## 📸 **Features**
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Disease+Detection+Page" alt="Disease Detection Page Screenshot" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://via.placeholder.com/600x400.png?text=Crop+Recommendation+Page" alt="Crop Recommendation Page Screenshot" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://via.placeholder.com/600x400.png?text=Multi-Language+Support" alt="Multi-Language Support Screenshot" style="border-radius: 10px; margin: 10px;" />
+  <img src="c2.png" alt="Disease Detection Page Screenshot" style="border-radius: 10px; margin: 10px;" />
+  <img src="c3" alt="Crop Recommendation Page Screenshot" style="border-radius: 10px; margin: 10px;" />
+  
 </p>
 
 ---
@@ -121,7 +121,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For inquiries or suggestions, feel free to reach out:
 
-- **Author**: Sanjay J R  
+- **Author**: Sanjay J | Miruthula Sk | Rohith
 - **Email**: [sanjayjayachandran08@gmail.com](@gmail.com)
 
 ---
