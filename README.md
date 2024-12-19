@@ -1,7 +1,7 @@
 # 🌱 **Plant-Pal: Revolutionizing Plant Care for Farmers** 🌾
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/12pCr4O6Ol8qkvXdO9GJaXEVuSeXWN_9q/view?usp=sharing" />
+  <img src="logo.png" />
 </p>
 
 ---
