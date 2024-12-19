@@ -92,7 +92,7 @@ Follow these steps to get Plant-Pal running on your system:
 
 <p align="center">
   <img src="c2.png" alt="Disease Detection Page Screenshot" style="border-radius: 10px; margin: 10px;" />
-  <img src="c3" alt="Crop Recommendation Page Screenshot" style="border-radius: 10px; margin: 10px;" />
+  <img src="c3.png" alt="Crop Recommendation Page Screenshot" style="border-radius: 10px; margin: 10px;" />
   
 </p>
 
@@ -120,9 +120,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📧 **Contact**
 
 For inquiries or suggestions, feel free to reach out:
-
+ 
 - **Author**: Sanjay J | Miruthula Sk | Rohith
-- **Email**: [sanjayjayachandran08@gmail.com](@gmail.com)
+- **Email**: [sanjayjayachandran08@gmail.com](mailto:sanjayjayachandran08@gmail.com)
 
 ---
 
