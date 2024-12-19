@@ -698,6 +698,122 @@ footer p {
 	}
 }
 
+/* General Reset */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* Navbar Styling */
+.navbar {
+    transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
+.navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.nav-link {
+    transition: color 0.3s ease;
+}
+.nav-link:hover {
+    color: #28a745;
+}
+
+/* Carousel Animations */
+.carousel-item {
+    transition: transform 1s ease, opacity 1s ease;
+    animation: fadeSlide 1.5s ease;
+}
+@keyframes fadeSlide {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.carousel-caption {
+    animation: zoomIn 1s ease;
+}
+@keyframes zoomIn {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Cards Hover Effect */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Button Hover Effects */
+.btn-primary {
+    background-color: #007bff;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
+
+/* Footer Animations */
+.footer {
+    animation: slideUp 1.5s ease;
+}
+@keyframes slideUp {
+    0% {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Scroll Animation */
+[data-scroll]:not(.scrolled) {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 1s ease;
+}
+[data-scroll].scrolled {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar-brand img {
+        width: 120px;
+    }
+
+    .carousel-caption {
+        font-size: 14px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+}
+
+
 
 
 
