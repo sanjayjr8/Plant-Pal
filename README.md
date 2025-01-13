@@ -126,6 +126,23 @@ For inquiries or suggestions, feel free to reach out:
 
 ---
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rohithselvan">
+        <img src="https://avatars.githubusercontent.com/Rohithselvan" width="100px;" alt="username1"/>
+        <br />
+        <sub><b>Rohith</b></sub>
+      </a>
+      <br />
+      Role/Contribution
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <b>🌟 Don’t forget to give a star if you find this project helpful! 🌟</b>
 </p>
