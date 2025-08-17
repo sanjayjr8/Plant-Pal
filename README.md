@@ -121,7 +121,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For inquiries or suggestions, feel free to reach out:
  
-- **Author**: Sanjay J | Miruthula Sk | Rohith
+- **Author**: Sanjay J | Miruthula Sk | Rohith | Gautham US
 - **Email**: [sanjayjayachandran08@gmail.com](mailto:sanjayjayachandran08@gmail.com)
 
 ---
@@ -138,6 +138,15 @@ For inquiries or suggestions, feel free to reach out:
       </a>
       <br />
       Role/Contribution
+    </td>
+    <td align="center">
+      <a href="https://github.com/gauthamUS">
+        <img src="https://avatars.githubusercontent.com/gauthamUS" width="100px;" alt="username2"/>
+        <br />
+        <sub><b>Gautham</b></sub>
+      </a>
+      <br />
+      Contributor
     </td>
   </tr>
 </table>
