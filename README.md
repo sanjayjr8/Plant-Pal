@@ -137,7 +137,7 @@ For inquiries or suggestions, feel free to reach out:
         <sub><b>Rohith</b></sub>
       </a>
       <br />
-      Role/Contribution
+      Model deployment or integration
     </td>
     <td align="center">
       <a href="https://github.com/gauthamUS">
@@ -146,7 +146,7 @@ For inquiries or suggestions, feel free to reach out:
         <sub><b>Gautham</b></sub>
       </a>
       <br />
-      Contributor
+      Model training and evaluation
     </td>
   </tr>
 </table>
